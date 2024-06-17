@@ -50,7 +50,7 @@ Welcome to the **Game of Life**, a cellular automaton devised by the mathematici
    ```
 2. Navigate to the project directory:
    ```bash
-   cd game-of-life
+   cd simple-game-of-life.git
    ```
 3. Open `index.html` in your preferred web browser to start the game.
 
