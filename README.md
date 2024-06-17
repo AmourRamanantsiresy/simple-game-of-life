@@ -2,7 +2,7 @@
 
 Welcome to the **Game of Life**, a cellular automaton devised by the mathematician John Conway. This project is an implementation of the game using HTML, CSS, and JavaScript.
 
-!(illustration)[https://github.com/AmourRamanantsiresy/simple-game-of-life/illustration.png]
+![Illustration](https://github.com/AmourRamanantsiresy/simple-game-of-life/blob/dev/assets/illustration.png)
 
 ## 🎮 How to Play
 
