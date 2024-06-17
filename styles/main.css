@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: black;
+}
+
+#canvas {
+  border: 2px solid black;
+}
+
+.cube {
+  background: black;
+  position: absolute;
+}
+
+.container {
+  position: relative;
+}
+
+#board {
+  width: 100vw;
+  height: 100vh;
+  background: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.cell {
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border: solid #ff000030 1px;
+}
+
+.cell.active {
+  background-color: white;
+  border: none;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 2px;
+}
